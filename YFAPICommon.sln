@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFAPICommon", "YFAPICommon\YFAPICommon.csproj", "{61328A6B-5E12-42CE-825A-555B6035C99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore", "EntityFrameworkCore\EntityFrameworkCore.csproj", "{BA130E37-B55E-46F4-A5E5-350552DE2B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61328A6B-5E12-42CE-825A-555B6035C99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61328A6B-5E12-42CE-825A-555B6035C99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61328A6B-5E12-42CE-825A-555B6035C99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61328A6B-5E12-42CE-825A-555B6035C99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA130E37-B55E-46F4-A5E5-350552DE2B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA130E37-B55E-46F4-A5E5-350552DE2B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA130E37-B55E-46F4-A5E5-350552DE2B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA130E37-B55E-46F4-A5E5-350552DE2B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {522BA4CC-7B4B-4813-9B1D-367C3FE9ECDC}
+	EndGlobalSection
+EndGlobal
